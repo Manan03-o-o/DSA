@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SpiralMatrixTraversal {
+public class Spiralmatrix {
 
     public static List<Integer> spiralOrder(int[][] matrix) {
 
